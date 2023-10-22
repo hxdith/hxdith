@@ -6,7 +6,7 @@
 -I'm familiar with basic python, c#, javascript, and a little bit of lua!
 
 
--I look forward to learn many languages in the future!
+-I look forward to learn many other programming languages in the future!
 
 
 -I love cats!
