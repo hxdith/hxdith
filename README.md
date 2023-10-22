@@ -1,7 +1,14 @@
 -Hi I'm Hadith Mukrish
+
 -I'm from Ngee Ann Polytechnic studying Information Technology
+
+
 -I'm familiar with basic python, c# and HTML
+
+
 -I look forward to learn many languages in the future!
+
+
 -I love cats
 
 <!---
